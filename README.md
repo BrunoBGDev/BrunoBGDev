@@ -24,6 +24,8 @@
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=BrunoBGDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+![Snake animation](https://github.com/BrunoBGDev/BrunoBGDev/blob/output/github-contribution-grid-snake.svg)
+
 ## 
 #### Even if others say you can't make it, move on. Even if you think you won't make it, go ahead. Nothing is impossible for someone who runs after a dream. And after achieving your dream, it's time to help others realize their dreams.
 ## 
