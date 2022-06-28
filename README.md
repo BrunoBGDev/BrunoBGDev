@@ -1,6 +1,6 @@
 > ## 
 > ## Hi, I’m @BrunoBGDev
-> - #### :computer: I'm interested in becoming a professional in programming. Also I love dogs and games.:game::feet::dog:
+> - #### :computer: I'm interested in becoming a professional in programming. Also I love dogs and games.:video_game::feet::dog:
 > - #### :space_invader: I want to be able to contribute to the community as much as possible by helping to resolve code issues. :wink::+1:
 > - #### :chart_with_upwards_trend: If anyone wants to do a project and needs help, you can count on me! Even though I still don't know much... :joy:
 > # 
