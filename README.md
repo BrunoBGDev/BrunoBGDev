@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/bruno-braga-082713221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>  
 > ## 
-##### Even if others say you can't make it, move on. Even if you think you won't make it, go ahead. Nothing is impossible for someone who runs after a dream. And after achieving your dream, it's time to help others realize their dreams.
+> ##### Even if others say you can't make it, move on. Even if you think you won't make it, go ahead. Nothing is impossible for someone who runs after a dream. And after achieving your dream, it's time to help others realize their dreams.
 
 __________________________________________________________________________________________________________________________________________________________
 
