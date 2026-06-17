@@ -10,7 +10,7 @@ I have a proven track record of improving system performance, automating process
 
 🌎 Open to Remote International Opportunities  
 🇧🇷 Based in Brazil  
-🇬🇧 English B1
+🇬🇧 English B2
 
 ---
 
