@@ -1,40 +1,163 @@
-## 
-### :wave:Hi, I’m Bruno..
-- #### :computer: I'm interested in becoming a professional in programming.
-- #### :space_invader: I want to be able to contribute to the community as much as possible by helping to resolve code issues.
-- #### :chart_with_upwards_trend: If anyone wants to do a project and needs help, you can count on me! Even though I still don't know much...
-- #### :book: I'am cadet at 42Rio programming school. **#42Rio!**
-# 
-### :computer:Languages and tools:wrench::
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50" height="50" />
-</div>
+# Hi, I'm Bruno Braga 👋
 
-# 
-### :mailbox:Contacts:
-<div align="center">
-<a href="https://instagram.com/BrunoBGDev" target="_blank"><img height="35em"src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:bruno.braga.design@gmail.com"><img height="35em"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/bruno-braga-082713221" target="_blank"><img height="35em"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+### Full Stack Developer | Laravel • ReactJS • PostgreSQL • AWS
 
-## 
+I'm a Full Stack Developer with 4+ years of experience building scalable software solutions for the fintech and digital banking industry.
 
-### :chart_with_upwards_trend:GitHub Status:
-<div align="center">
-<a href="https://github.com/BrunoBGDev">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoBGDev&theme=dracula" /><img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBGDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-</div>
-<div align="center">
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBGDev&langs_count=7&theme=dracula"/>
-</div>
+My expertise includes designing and developing secure, high-performance applications using PHP Laravel, ReactJS, PostgreSQL, Docker, AWS, and RabbitMQ.
 
-![Snake animation](https://github.com/BrunoBGDev/BrunoBGDev/blob/output/github-contribution-grid-snake.svg)
+I have a proven track record of improving system performance, automating processes, and delivering solutions that directly impact business efficiency and user experience.
 
-## 
-#### :scroll:Even if others say you can't make it, move on. Even if you think you won't make it, go ahead. Nothing is impossible for someone who runs after a dream. And after achieving your dream, it's time to help others realize their dreams.
-## 
-<!---
-BrunoBGDev/BrunoBGDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌎 Open to Remote International Opportunities  
+🇧🇷 Based in Brazil  
+🇬🇧 English C1 (Advanced)
+
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer with strong Backend and Frontend experience
+- 🏦 Currently working in the fintech and digital banking sector
+- ⚡ Experienced with high-volume financial transactions and payment systems
+- ☁️ AWS, Docker, CI/CD, RabbitMQ and cloud infrastructure
+- 📊 PostgreSQL performance optimization and reporting systems
+- 🤝 Passionate about technology, problem-solving, and continuous learning
+- 🎯 Interested in building scalable products that impact thousands of users
+
+---
+
+## 💼 Professional Highlights
+
+- Reduced platform support tickets by more than **40%** through system improvements and automation.
+- Developed dynamic mobile application banner systems.
+- Created employee onboarding workflows using spreadsheets and web applications.
+- Implemented financial reporting solutions for banking operations.
+- Optimized PostgreSQL queries to improve financial report performance.
+- Built and maintained APIs and internal tools used by thousands of users.
+- Worked on digital banking products including payments, transfers, digital wallets, and financial services.
+
+---
+
+## 🏦 Fintech & Banking Experience
+
+Throughout my career, I've worked on projects involving:
+
+- Digital Banking Platforms
+- Financial Transactions
+- Payment Processing
+- Digital Wallets
+- Internal Banking Systems
+- Financial Reporting
+- Queue Processing
+- REST APIs
+- Authentication & Security
+- Cloud Infrastructure
+- Business Process Automation
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBGDev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBGDev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Education
+
+### 42 Rio – Software Engineering
+Rio de Janeiro, Brazil
+
+One of the most recognized programming schools worldwide, present in over 30 countries.
+
+Focused on:
+
+- Software Engineering
+- C Programming
+- Agile Methodologies
+- Scrum & Kanban
+- Project Management
+- Team Collaboration
+- Problem Solving
+
+### UniBF – Systems Analysis and Development (Ongoing)
+
+Specializations:
+
+- IT Infrastructure
+- IT Security
+- Systems Analysis
+- Network Management
+- Algorithms & Programming
+- Critical Thinking
+- Communication
+
+---
+
+## 🌱 Currently Learning
+
+- Software Architecture
+- Cloud Solutions
+- System Scalability
+- Go (Golang)
+- Advanced DevOps Practices
+
+---
+
+## 🎮 Beyond Coding
+
+When I'm not coding, you can find me:
+
+🚴 Cycling  
+🎮 Gaming  
+📚 Learning new technologies  
+🎥 Creating content and livestreams on YouTube
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Braga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunobragadev)
+
+📧 Email: bruno.braga.design@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and connect with me. I'm always open to discussing technology, software development, and exciting opportunities.
